@@ -21,6 +21,10 @@ This project replicated Fama-French five-factor model tables and an AQR-style si
 
 - `factor-model-replication-grs.pdf`: final assignment report
 
+## Code
+
+- [Google Colab notebook](https://colab.research.google.com/drive/14_b-g_USwEM8sBwEdaLHbNaGkBMglgNp?usp=sharing)
+
 ## Key Takeaway
 
 Adding HML-DEV and momentum did not automatically improve joint pricing performance under the GRS lens; for the tested portfolios, alphas remained jointly significant.
