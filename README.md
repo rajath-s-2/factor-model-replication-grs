@@ -17,6 +17,12 @@ This project replicated Fama-French five-factor model tables and an AQR-style si
 - GRS testing of joint alpha significance
 - Interpretation of model complexity versus pricing performance
 
+## Source Paper
+
+This replication is based on Cliff Asness's AQR Capital Management article, *Our Model Goes to Six and Saves Value From Redundancy Along the Way*. The paper discusses the Fama-French five-factor model, the addition of momentum, and the use of a more timely HML-DEV value factor.
+
+The source PDF is not redistributed in this public repository because it is copyrighted material.
+
 ## Artifact
 
 - `factor-model-replication-grs.pdf`: final assignment report
