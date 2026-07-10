@@ -20,6 +20,7 @@ This project replicated Fama-French five-factor model tables and an AQR-style si
 ## Artifact
 
 - `factor-model-replication-grs.pdf`: final assignment report
+- `hml-dev-factors-monthly.xlsx`: monthly factor workbook for the HML-DEV / momentum replication analysis
 
 ## Code
 
