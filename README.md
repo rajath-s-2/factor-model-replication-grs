@@ -25,7 +25,7 @@ The source PDF is not redistributed in this public repository because it is copy
 
 ## Artifact
 
-- `factor-model-replication-grs.pdf`: final assignment report
+- `MGT_6078_HW_4-2.pdf`: final assignment report
 - `hml-dev-factors-monthly.xlsx`: monthly factor workbook for the HML-DEV / momentum replication analysis
 
 ## Code
